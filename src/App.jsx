@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Consumo con Axios</h1>
+        <h1>HTTP - Axios</h1>
       </div>
       <div className="card">
         <button>
