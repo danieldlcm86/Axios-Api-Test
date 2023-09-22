@@ -13,7 +13,7 @@ Para utilizar este proyecto como plantilla y consumir una API utilizando Axios, 
 2. Utilizando CLI ubica la carpeta que contiene el proyecto clonado.
 3. Ejecuta el siguiente comando:
 ```sh
-npm init dev
+npm run dev
 ```
 4. En el navegador, ingresa a la dirección de localhost que te indique CLI.
 5. Ejecuta el proyecto en el IDE de tu preferencia (Visual Studio Code).
