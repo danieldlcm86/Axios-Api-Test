@@ -1,5 +1,6 @@
-# Test Axios-React
+# Axios-React Test
 Este proyecto en React inicializado con Vite nos sirve como plantilla para probar los métodos de peticiones HTTP (Get y Post) utilizando `Axios`.
+
 *Este proyecto de React incluye dos botones que sirven para realizar peticiones y de esta manera consumir una API.*
 
 ## Axios
@@ -8,10 +9,10 @@ Este proyecto en React inicializado con Vite nos sirve como plantilla para proba
     - En el lado del servidor usa el módulo nativo HTTP de node.js.
     - En el lado del cliente (navegador) usa XMLHttpRequests.
 - Es una librería de JavaScript que nos permite hacer peticiones o llamadas al contenido de un enlace HTTP.
-[Axios Docs](https://axios-http.com/)
----
 
-## Instrucciones
+[Axios Docs](https://axios-http.com/)
+
+### Instrucciones
 Para utilizar este proyecto como plantilla y consumir una API utilizando Axios, realiza lo siguiente:
 1. `Clona` este repositorio de manera local en tu equipo.
 2. Utilizando CLI (terminal) cambia al directorio que contiene el proyecto clonado.
